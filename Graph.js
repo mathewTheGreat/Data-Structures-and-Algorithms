@@ -1,3 +1,9 @@
+/*
+
+Time complexity O(V+E)
+
+*/
+
 class Graph {
     constructor() {
         this.adjancecyList = []
