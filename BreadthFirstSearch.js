@@ -1,3 +1,6 @@
+/*
+O(V + E) when Adjacency List is used and O(V^2) for adjacency matrix
+*/
 class Node {
     constructor(data) {
         this.data = data;
